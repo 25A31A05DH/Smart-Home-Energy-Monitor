@@ -1,0 +1,17 @@
+# Smart Home Energy Monitor - Appliance Data File
+# Format: ApplianceName  Watts  HoursPerDay
+# Lines beginning with '#' are comments.
+#
+# Appliance               Watts   Hours/Day
+Air_Conditioner           1500    8
+Water_Heater_Geyser       2900    1
+Refrigerator              150     24
+Washing_Machine           500     1
+Television                120     5
+Ceiling_Fan               75      10
+LED_Lights                60      6
+Laptop                    65      8
+Microwave_Oven            1200    0.5
+Electric_Iron             1000    0.5
+WiFi_Router               10      24
+Phone_Charger             10      2
